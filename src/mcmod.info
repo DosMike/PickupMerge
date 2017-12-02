@@ -1,0 +1,9 @@
+[{
+  "modid": "pickupmerge",
+  "name": "Pickup Merge",
+  "description": "Merge Ores / Ore-Based Items on Pickup/Container travel",
+  "version": "1.0",
+  "authorList": [ "DosMike" ],
+  "requiredMods": [ "spongeapi" ],
+  "dependencies": [ "spongeapi" ]
+}]
